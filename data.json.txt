@@ -1,0 +1,92 @@
+[
+  {
+    "Roll Number": 1,
+    "Tamil": 89,
+    "English": 89,
+    "Maths": 89,
+    "Science": 89,
+    "Social": 89,
+    "Total": 445
+  },
+  {
+    "Roll Number": 2,
+    "Tamil": 67,
+    "English": 67,
+    "Maths": 67,
+    "Science": 67,
+    "Social": 67,
+    "Total": 335
+  },
+  {
+    "Roll Number": 3,
+    "Tamil": 67,
+    "English": 67,
+    "Maths": 67,
+    "Science": 67,
+    "Social": 67,
+    "Total": 335
+  },
+  {
+    "Roll Number": 4,
+    "Tamil": 67,
+    "English": 67,
+    "Maths": 67,
+    "Science": 67,
+    "Social": 67,
+    "Total": 335
+  },
+  {
+    "Roll Number": 5,
+    "Tamil": 67,
+    "English": 67,
+    "Maths": 67,
+    "Science": 67,
+    "Social": 67,
+    "Total": 335
+  },
+  {
+    "Roll Number": 6,
+    "Tamil": 67,
+    "English": 67,
+    "Maths": 67,
+    "Science": 67,
+    "Social": 67,
+    "Total": 335
+  },
+  {
+    "Roll Number": 7,
+    "Tamil": 67,
+    "English": 67,
+    "Maths": 67,
+    "Science": 67,
+    "Social": 67,
+    "Total": 335
+  },
+  {
+    "Roll Number": 8,
+    "Tamil": 67,
+    "English": 67,
+    "Maths": 67,
+    "Science": 67,
+    "Social": 67,
+    "Total": 335
+  },
+  {
+    "Roll Number": 9,
+    "Tamil": 67,
+    "English": 67,
+    "Maths": 67,
+    "Science": 67,
+    "Social": 67,
+    "Total": 335
+  },
+  {
+    "Roll Number": 10,
+    "Tamil": 67,
+    "English": 67,
+    "Maths": 67,
+    "Science": 67,
+    "Social": 67,
+    "Total": 335
+  }
+]
