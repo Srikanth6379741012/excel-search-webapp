@@ -10,6 +10,10 @@ function searchData() {
   const query = document.getElementById('searchBox').value.trim().toLowerCase();
   const resultDiv = document.getElementById('result');
   resultDiv.innerHTML = '';
+function clearResult() {
+  document.getElementById("searchInput").value = "";
+  document.getElementById("result").innerHTML = "";
+}
 
   const match = jsonData.find(row => {
     return Object.values(row).some(value =>
